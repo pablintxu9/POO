@@ -1,0 +1,3 @@
+# catapulta/__init__.py
+
+# Este archivo es intencionalmente está vacío.
